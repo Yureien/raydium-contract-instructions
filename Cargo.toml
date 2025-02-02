@@ -8,3 +8,6 @@ members = [
     "staking-anchor",
 ]
 
+
+[profile.release]
+overflow-checks = true

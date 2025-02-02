@@ -12,7 +12,7 @@ pub use instructions::*;
 
 use anchor_lang::prelude::*;
 
-declare_id!("5quBtoiQqxF9Jv6KYKctB59NT3gtJD2Y65kdnB1Uev3h");
+declare_id!("8Fe8FEWV4cvr82ffFAgUH6RRFypQzLtAUD8xwF5CXF9S");
 
 /// Stable Amm Program
 #[derive(Clone)]
